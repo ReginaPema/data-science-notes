@@ -137,11 +137,11 @@ print(f"Alertas detectadas: {len(alertas)}")
 
 ---
 
-## Métodos de detección — cuándo usar cada uno
+## Métodos de detección
 
 | Método | Cuándo usarlo | Código |
 |---|---|---|
-| **IQR** | Siempre como primera opción — robusto ante cualquier distribución | `Q1 - 1.5*IQR` / `Q3 + 1.5*IQR` |
+| **IQR** | Siempre como primera opción, robusto ante cualquier distribución | `Q1 - 1.5*IQR` / `Q3 + 1.5*IQR` |
 | **Z-Score** | Cuando tus datos son aproximadamente normales | `z > 3` |
 | **Percentiles** | Cuando quieres un umbral específico de negocio | `quantile(0.99)` |
 | **Visualización** | Siempre, complementa cualquier método numérico | boxplot, histograma |
