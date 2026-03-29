@@ -14,7 +14,7 @@
 | Note | Topic | Date |
 |---|---|---|
 | [01 · Mean, Median & Mode](statistics/01_mean_median_mode.md) | What the numbers tell you about your data · Lo que los números dicen de tus datos | 2026 |
-
+| [02 · Outliers](statistics/02_outliers.md) | Types, detection & what to do · Tipos, detección y qué hacer | 2026 |
 
 *Updated as I learn · Actualizado conforme aprendo*  
 *EBAC Data Scientist Certificate · 2025–2026* 🎓
