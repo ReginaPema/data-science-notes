@@ -1,10 +1,8 @@
 # 📓 Data Science Reference Notes
 ### Notas de Referencia en Ciencia de Datos · Regina Castillo
 
-> *"I write these notes so future-me doesn't have to google the same 
-> thing twice."* 🪷  
-> *"Escribo estas notas para que la-yo-del-futuro no tenga que 
-> googlear lo mismo dos veces."*
+> *"I write these notes so future-me doesn't have to google the same thing twice."* 🪷  
+> *"Escribo estas notas para que la-yo-del-futuro no tenga que googlear lo mismo dos veces."*
 
 ---
 
@@ -22,6 +20,10 @@
 |---|---|---|
 | [01 · Boxplot](visualizations/01_boxplot.md) | Distribution + outliers + group comparison · Distribución + outliers + comparar grupos | 2026 |
 
+### ⚙️ Data Pipelines
+| Note | Topic | Date |
+|---|---|---|
+| [01 · ETL Process](data_pipelines/01_etl_process.md) | Extract, Transform & Load | 2026 |
 
 *Updated as I learn · Actualizado conforme aprendo*  
 *EBAC Data Scientist Certificate · 2025–2026* 🎓
