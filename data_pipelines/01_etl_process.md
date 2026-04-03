@@ -1,4 +1,4 @@
-# 🔄 ETL Process
+# ETL Process
 ## Extract, Transform, Load · Extracción, Transformación y Carga
 
 > ETL es el proceso de tomar datos de donde están, limpiarlos y darles forma, y ponerlos donde los necesitas.
@@ -473,4 +473,4 @@ REGLAS DE ORO:
 ---
 
 *Nota creada: 2026 · Parte del certificado Científico de Datos — EBAC*
-*🪷 github.com/ReginaPema*``
+*🪷 github.com/ReginaPema*
