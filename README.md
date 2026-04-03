@@ -23,7 +23,8 @@
 ### ⚙️ Data Pipelines
 | Note | Topic | Date |
 |---|---|---|
-| [01 · ETL Process](data_pipelines/01_etl_process.md) | Extract, Transform & Load | 2026 |
+| [01 · ETL Process](data_pipelines/01_etl_process.md) | Extract, Transform & Load · Extracción, Transformación y Carga | 2026 |
+| [02 · EDA Process](data_pipelines/02_eda_process.md) | Exploratory Data Analysis · Análisis Exploratorio de Datos | 2026 |
 
 *Updated as I learn · Actualizado conforme aprendo*  
 *EBAC Data Scientist Certificate · 2025–2026* 🎓
