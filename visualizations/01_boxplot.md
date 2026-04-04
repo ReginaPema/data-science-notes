@@ -1,4 +1,4 @@
-# 📊 01 · Boxplot (Box & Whisker Plot)
+# Boxplot (Box & Whisker Plot)
 ## Diagrama de Caja y Bigotes
 
 > **En una sola gráfica te dice:**
@@ -305,7 +305,7 @@ Cajas con distinto IQR        →  Los grupos tienen variabilidades distintas
 
 ## 🔗 Aplicado a mis proyectos
 
-### Proyecto EDA — Ventas Retail
+### Proyecto EDA: Ventas Retail
 ```python
 # Boxplot general:
 # → Mediana muy baja ($16.81) vs media ($90.51)
