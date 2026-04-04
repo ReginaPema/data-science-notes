@@ -19,6 +19,7 @@
 | Note | Topic | Date |
 |---|---|---|
 | [01 · Boxplot](visualizations/01_boxplot.md) | Distribution + outliers + group comparison · Distribución + outliers + comparar grupos | 2026 |
+| [02 · Histogram](visualizations/02_histogram.md) | Complete shape of the distribution · Forma completa de la distribución | 2026 |
 
 ### ⚙️ Data Pipelines
 | Note | Topic | Date |
