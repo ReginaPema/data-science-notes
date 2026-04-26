@@ -23,6 +23,7 @@ cat laptop2
 | [02 · Histogram](visualizations/02_histogram.md) | Complete shape of the distribution · Forma completa de la distribución | 2026 |
 | [03 · Scatter Plot](visualizations/03_scatter_plot.md) | Relationship between two numeric variables · Relación entre dos variables numéricas | 2026 |
 | [04 · Heatmap](visualizations/04_heatmap.md) | All correlations at a glance · Todas las relaciones de un vistazo | 2026 |
+| [05 · Line Chart](visualizations/05_line_chart.md) | Trends and changes over time · Tendencias y cambios a lo largo del tiempo | 2026 |
 
 ### <img src="https://github.com/ReginaPema/data-science-notes/blob/main/assets/gear2.gif?raw=true" width="30"> Data Pipelines
 | Note | Topic | Date |
