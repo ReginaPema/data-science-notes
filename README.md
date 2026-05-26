@@ -14,7 +14,7 @@
 | [01 · Mean, Median & Mode](statistics/01_mean_median_mode.md) | What the numbers tell you about your data · Lo que los números dicen de tus datos | 2026 |
 | [02 · Outliers](statistics/02_outliers.md) | Types, detection & what to do · Tipos, detección y qué hacer | 2026 |
 | [03 · Standard Deviation](statistics/03_standard_deviation.md) | How spread are your data · Qué tan dispersos están tus datos | 2026 |
-| [04 · Heatmap](visualizations/04_heatmap.md) | Correlation and Coefficient of Determination · Correlación y Coeficiente de Determinación | 2026 |
+| [04 · Correlation & R²](statistics/04_correlation_r_squared.md) | Correlation and Coefficient of Determination · Correlación y Coeficiente de Determinación | 2026 |
 | [05 · Normal Distribution](statistics/05_normal_distribution.md) | Z-score, p-value, confidence intervals, CLT & regression assumptions | 2026 |
 
 ### <img src="https://github.com/ReginaPema/data-science-notes/blob/main/assets/graphs1.gif?raw=true" width="35"> Visualizations / Visualizaciones
