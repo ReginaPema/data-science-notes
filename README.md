@@ -16,6 +16,7 @@
 | [03 · Standard Deviation](statistics/03_standard_deviation.md) | How spread are your data · Qué tan dispersos están tus datos | 2026 |
 | [04 · Correlation & R²](statistics/04_correlation_r_squared.md) | Correlation and Coefficient of Determination · Correlación y Coeficiente de Determinación | 2026 |
 | [05 · Normal Distribution](statistics/05_normal_distribution.md) | Z-score, p-value, confidence intervals, CLT & regression assumptions | 2026 |
+| [06 · Other Distributions](statistics/06_other_distributions.md) | Log-Normal, Binomial, Poisson, Exponential & more | 2026 |
 
 ### <img src="https://github.com/ReginaPema/data-science-notes/blob/main/assets/graphs1.gif?raw=true" width="35"> Visualizations / Visualizaciones
 | Note | Topic | Date |
