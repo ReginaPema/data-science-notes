@@ -35,6 +35,11 @@
 | [01 · ETL Process](data_pipelines/01_etl_process.md) | Extract, Transform & Load · Extracción, Transformación y Carga | 2026 |
 | [02 · EDA Process](data_pipelines/02_eda_process.md) | Exploratory Data Analysis · Análisis Exploratorio de Datos | 2026 |
 
+### <img src="https://github.com/ReginaPema/data-science-notes/blob/main/assets/bot.gif?raw=true" width="45"> Machine Learning
+| Note | Topic | Date |
+|---|---|---|
+| [01 · Linear Regression](machine_learning/01_linear_regression.md) | Predicting continuous values, the baseline algorithm · Predicción de valores continuos, el algoritmo base| 2026 |
+
 *Updated as I learn · Actualizado conforme aprendo* <img src="https://github.com/ReginaPema/data-science-notes/blob/main/assets/cat progress.gif?raw=true" width="70">
 
 *EBAC Data Scientist Certificate · 2025–2026* <img src="https://github.com/ReginaPema/data-science-notes/blob/main/assets/grad.gif?raw=true" width="30">
